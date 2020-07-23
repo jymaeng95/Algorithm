@@ -40,7 +40,7 @@ public class Main_1206 {
 			c++;
 			System.out.println("#"+c+" "+count);
 		}
-		
+		br.close();
 	}
 
 }
